@@ -2,3 +2,20 @@ body{
     color:gold;
     background:black;
 }
+header {
+    border-bottom: solid 2px rgb(215, 215, 6);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(238, 255, 0);
+}
+section {
+	background: goldenrod;
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
